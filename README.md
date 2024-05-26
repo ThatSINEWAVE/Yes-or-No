@@ -5,6 +5,8 @@
 Welcome to Yes or No!
 This is a simple web application where you can get answers to your questions with just a click of a button. 
 
+![Yes-or-No](https://github.com/ThatSINEWAVE/Yes-or-No/assets/133239148/38122698-01af-4793-8b02-780139a150e8)
+
 </div>
 
 ## How to Use
